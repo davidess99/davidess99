@@ -1,10 +1,22 @@
 ## Hi there 👋
-
-[![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,apollo,apple,babel,bash,html,css,sass,svg,tailwind,bootstrap,js,ts,react,redux,regex,nextjs,gatsby,vue,vite,vuetify,pinia,nuxtjs,graphql,nestjs,express,threejs,nodejs,npm,webpack,jquery,flutter,dart,php,laravel,wordpress,java,spring,gradle,mysql,postgres,sqlite,postman,mongodb,redis,firebase,docker,nginx,git,github,bitbucket,jenkins,jest,ubuntu,unity,cs,py,anaconda,go,cpp&perline=8)](https://skillicons.dev)
-
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=vscode,js,ts,html,css,sass,svg,tailwind,bootstrap,react,redux,apollo,regex,nextjs,gatsby,vue,vite,vuetify,pinia,nuxtjs,graphql,nestjs,express,threejs,nodejs,babel,npm,webpack,jquery" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=androidstudio,apple,flutter,dart" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,laravel,wordpress,mysql,postgres,sqlite,postman,mongodb,redis,firebase,unity,cs,py,anaconda,java,spring,gradle" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bash,git,github,bitbucket,kubernetes,docker,nginx,jenkins,jest,vim,cpp,go,ubuntu" />
   </a>
 </p>
 
