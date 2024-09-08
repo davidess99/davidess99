@@ -2,6 +2,12 @@
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,apollo,apple,babel,bash,html,css,sass,svg,tailwind,bootstrap,js,ts,react,redux,regex,nextjs,gatsby,vue,vite,vuetify,pinia,nuxtjs,graphql,nestjs,express,threejs,nodejs,npm,webpack,jquery,flutter,dart,php,laravel,wordpress,java,spring,gradle,mysql,postgres,sqlite,postman,mongodb,redis,firebase,docker,nginx,git,github,bitbucket,jenkins,jest,ubuntu,unity,cs,py,anaconda,go,cpp&perline=8)](https://skillicons.dev)
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
+
 <!--
 **davidess99/davidess99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
