@@ -1,4 +1,6 @@
 ## Hi there 👋
+
+## 🚀 I Work With:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,js,ts,html,css,sass,svg,tailwind,bootstrap,react,redux,apollo,regex,nextjs,gatsby,vue,vite,vuetify,pinia,nuxtjs,graphql,nestjs,express,threejs,nodejs,babel,npm,webpack,jquery&perline=10" />
