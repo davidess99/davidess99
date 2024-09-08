@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-## 🔒 Prefer Working Privately:
-Most of my work lives in private repositories where I focus on bespoke solutions, client confidentiality, and tailored user experiences. Let’s connect if you want a peek behind the curtain!
-
 ## 🚀 I Work With:
 <p align="center">
   <a href="https://skillicons.dev">
@@ -24,6 +21,9 @@ Most of my work lives in private repositories where I focus on bespoke solutions
     <img src="https://skillicons.dev/icons?i=bash,git,github,bitbucket,kubernetes,docker,nginx,jenkins,jest,vim,cpp,go,ubuntu&perline=10" />
   </a>
 </p>
+
+## 🔒 Prefer Working Privately:
+Most of my work lives in private repositories where I focus on bespoke solutions, client confidentiality, and tailored user experiences. Let’s connect if you want a peek behind the curtain!
 
 <!--
 **davidess99/davidess99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
