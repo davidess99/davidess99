@@ -23,6 +23,11 @@
     <img src="https://skillicons.dev/icons?i=bash,git,github,bitbucket,kubernetes,docker,nginx,jenkins,jest,vim,cpp,go,ubuntu&perline=10" />
   </a>
 </p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ps,ai,figma,ae&perline=10" />
+  </a>
+</p>
 
 ## 🎯 My Motto:
 “When code meets creativity, the possibilities are endless.”
