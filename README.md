@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+## 🔒 Prefer Working Privately:
+Most of my work lives in private repositories where I focus on bespoke solutions, client confidentiality, and tailored user experiences. Let’s connect if you want a peek behind the curtain!
+
 ## 🚀 I Work With:
 <p align="center">
   <a href="https://skillicons.dev">
