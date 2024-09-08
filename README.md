@@ -1,7 +1,7 @@
 ## Hi there 👋
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,js,ts,html,css,sass,svg,tailwind,bootstrap,react,redux,apollo,regex,nextjs,gatsby,vue,vite,vuetify,pinia,nuxtjs,graphql,nestjs,express,threejs,nodejs,babel,npm,webpack,jquery" />
+    <img src="https://skillicons.dev/icons?i=vscode,js,ts,html,css,sass,svg,tailwind,bootstrap,react,redux,apollo,regex,nextjs,gatsby,vue,vite,vuetify,pinia,nuxtjs,graphql,nestjs,express,threejs,nodejs,babel,npm,webpack,jquery&perline=10" />
   </a>
 </p>
 <p align="center">
@@ -11,12 +11,12 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,wordpress,mysql,postgres,sqlite,postman,mongodb,redis,firebase,unity,cs,py,anaconda,java,spring,gradle" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,wordpress,mysql,postgres,sqlite,postman,mongodb,redis,firebase,unity,cs,py,anaconda,java,spring,gradle&perline=10" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,git,github,bitbucket,kubernetes,docker,nginx,jenkins,jest,vim,cpp,go,ubuntu" />
+    <img src="https://skillicons.dev/icons?i=bash,git,github,bitbucket,kubernetes,docker,nginx,jenkins,jest,vim,cpp,go,ubuntu&perline=10" />
   </a>
 </p>
 
